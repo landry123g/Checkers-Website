@@ -1,0 +1,35 @@
+body {
+	margin: 0px;
+	padding: 0px
+}
+#header {
+	background-color: #FD0000;
+	overflow: hidden;
+}
+#navbar {
+	float: right;
+	text-align: center;
+	margin: 20px;
+	color: white;
+	font-family: Verdana;
+	font-size: 20px;
+}
+#navlink {
+	margin-left: 20px;
+	margin-right: 20px;
+}
+#logo {
+	float: left;
+}
+a:visited, a:link {
+	color: gray;
+	text-decoration: none;
+}
+a:hover {
+	color: white;
+}
+canvas {
+	margin: 20px;
+}
+
+
